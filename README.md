@@ -1,3 +1,7 @@
+
+Potential Fork to fix minor desync on server load with newer versions of baubles developed by the NH Team
+
+
 =========
 
 The offical repository of Talismans 2.
